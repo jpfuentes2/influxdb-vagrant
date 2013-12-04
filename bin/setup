@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+vagrant up
+open http://localhost:8083
